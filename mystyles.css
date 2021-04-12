@@ -1,0 +1,105 @@
+body{
+    text-align: center;
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
+font-size: 20px;
+}
+body{
+    background-color: #111f4d;
+}
+body{
+    margin: 0%;
+}
+.toptucker{
+    background-color: #f2f4f7;
+    height: 120px;
+
+    width: 100%;
+    
+}
+h1{
+    
+    font-size: 100px;
+    color: #e43a19;
+    padding-top: 60px;
+    position: center;
+    line-height: 0%;
+  
+    
+    
+}
+h1:hover{
+color: white;
+}
+img{
+    height: 750px;
+    width: 1060px;
+line-height: 0%;
+    padding-top: 0%
+}
+h2
+{
+    color: #e43a19;
+}
+p{
+    font-size: 2.5rem;
+    color: #e43a19;
+
+
+}
+a{
+    color: #e43a19;
+    text-decoration: solid;
+    font-size: 40px;
+}
+a:hover{
+    color: black;
+}
+
+.topma{
+    height: 10%;
+    width: 100%;
+    background-color: white;
+    font-size: 50px;
+}
+.skill-row{
+    margin: auto;
+ 
+}
+.one{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding: 20px;
+}
+.two{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-right: 15px;
+    margin-bottom: 40px;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding: 20px;
+}
+top:hover{
+    color: red;
+}
+h3{
+    padding: 10px;
+    font-size: 50px;
+}
+.skill-row{
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+.bottom-container{
+    height: 180px;
+width: 100%;
+background-color: white;
+padding: 50PX 0 20px;
+}
